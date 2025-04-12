@@ -84,7 +84,7 @@ pip install \
 ```
 
 pip install ^
-    -f https://download.pytorch.org/whl/torch/ ^
+    -f https://download.pytorch.org/whl/torch/ ^a
     -r .environment\requirements.txt
 
 ```
